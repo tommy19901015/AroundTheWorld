@@ -1,12 +1,13 @@
 {
     "editor.formatOnSave": true,
     "prettier.singleQuote": true,
-    "prettier.tabWidth": 4,
+    "prettier.tabWidth": 2,
     "prettier.printWidth": 100,
     "prettier.semi": true,
     "prettier.trailingComma": "es5",
     "git.ignoreLimitWarning": true,
     "typescript.tsdk": "node_modules\\typescript\\lib",
+    "editor.detectIndentation ": false,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": false
     },
